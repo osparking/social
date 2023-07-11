@@ -1,0 +1,15 @@
+# github application spec
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: 049260c6af9ce1
+            clientSecret: f48627918daf57ade9e4f2901271d191d
+            
+# google project spec 
+           
+
+
+
